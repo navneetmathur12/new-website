@@ -66,7 +66,7 @@ const page = () => {
 
                       
                         </div>
-                                    <h1> hyyy  brother</h1>
+                                 
 
                     </div>
                 </div>
